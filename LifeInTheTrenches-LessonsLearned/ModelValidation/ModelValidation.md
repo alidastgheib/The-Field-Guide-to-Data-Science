@@ -1,4 +1,4 @@
-##Model Validation
+## Model Validation
 *Repeating what you just heard does not mean that you learned anything.*
 
 Model validation is central to construction of any model. This answers the question “How well did my hypothesis fit the observed data?”
